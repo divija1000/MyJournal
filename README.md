@@ -7,8 +7,10 @@
 ##
 ### Home page
 <img width="1000" position="relative" src="home.png" /> 
+
 ### About page
 <img width="1000" position="relative" src="about.png" /> 
+
 ### Home page with added content
 <img width="1000" position="relative" src="added-content.png" /> 
 
